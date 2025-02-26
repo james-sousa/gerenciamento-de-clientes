@@ -1,6 +1,7 @@
+![Tela de cadastro](Captura.png)
 ![Tela de cadastro](Cadastro.png)
 
-![tela](Captura de tela de 2025-02-22 19-31-20.png)
+
 
 
 
